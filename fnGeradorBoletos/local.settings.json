@@ -1,0 +1,8 @@
+{
+        "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+        "ServiceBusConnectionString": "Endpoint=sb:Endpoint=sb://billsdev001.servicebus.windows.net/;SharedAccessKeyName=ManageBills;SharedAccessKey=3HrNSQqTKLtla8qo39R7WCUD/+lLAV+fL+ASbKljfaU="
+    }
+}
